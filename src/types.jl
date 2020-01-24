@@ -1,6 +1,6 @@
 # Empty matrix and vector for function evaluation
-const emptyfvec = Array{Float64, 0}(0)
-const emptyfmat = Array{Float64, (0,0)}(0, 0)
+const emptyfvec = Array{Float64, 0}
+const emptyfmat = Array{Float64, (0,0)}
 
 
 # Define Abstract NLP Evaluator for STO problem
